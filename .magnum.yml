@@ -1,2 +1,2 @@
 install:
-  - sh gradle build
+  - sh gradlew build
