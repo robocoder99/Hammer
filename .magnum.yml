@@ -1,2 +1,3 @@
 install:
-  - sh gradlew build
+  - chmod +x gradlew.sh
+  - ./gradlew build
