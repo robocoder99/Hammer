@@ -1,5 +1,2 @@
-before_install:
-  - sudo apt-get install gradle
-
 install:
-  - gradle build
+  - sh gradle build
